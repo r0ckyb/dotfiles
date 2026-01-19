@@ -1,0 +1,9 @@
+[user]
+	name = Ilya Prokhorov
+	email = prokhorov_ilya@proton.me
+	username = jivoy
+[core]
+	editor = nvim
+[init]
+	defaultBranch = master
+
